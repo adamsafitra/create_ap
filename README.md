@@ -1,17 +1,3 @@
-## NOT MAINTAINED
-
-This project is no longer maintained.
-
-
-## Forks and continuation of this project
-
-* [linux-wifi-hotspot] - Fork that is focused on providing GUI and improvements.
-* [linux-router] - Fork that is focused on providing new features and
-    improvements which are not limited to WiFi. Some interesting features are:
-    sharing Internet to a wired interface and sharing Internet via a transparent
-    proxy using redsocks.
-
-
 ## Features
 
 * Create an AP (Access Point) at any channel.
@@ -104,7 +90,3 @@ Using the persistent [systemd](https://wiki.archlinux.org/index.php/systemd#Basi
 
 ## License
 FreeBSD
-
-
-[linux-wifi-hotspot]: https://github.com/lakinduakash/linux-wifi-hotspot
-[linux-router]: https://github.com/garywill/linux-router
